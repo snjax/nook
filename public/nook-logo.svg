@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background -->
+  <rect width="512" height="512" rx="108" fill="#0098ff"/>
+  <!-- Isometric container: top face -->
+  <path d="M256 140 L370 206 L256 272 L142 206Z" fill="#fff" fill-opacity="0.4"/>
+  <!-- Isometric container: left face -->
+  <path d="M142 206 L256 272 L256 404 L142 338Z" fill="#fff" fill-opacity="0.95"/>
+  <!-- Isometric container: right face -->
+  <path d="M256 272 L370 206 L370 338 L256 404Z" fill="#fff" fill-opacity="0.65"/>
+  <!-- Nook opening on left face -->
+  <path d="M170 288 L235 326 L235 392 L170 354Z" fill="#005a9e"/>
+</svg>

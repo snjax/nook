@@ -1,0 +1,7 @@
+{
+  "name": "nook-e2e-test-server",
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}

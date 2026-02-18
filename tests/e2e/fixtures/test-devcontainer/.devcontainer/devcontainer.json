@@ -1,0 +1,6 @@
+{
+  "name": "nook-e2e-test",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "postCreateCommand": "npm install",
+  "postStartCommand": "node server.js &"
+}
